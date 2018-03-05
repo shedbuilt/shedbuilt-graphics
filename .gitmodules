@@ -1,0 +1,16 @@
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/shedbuilt/libpng.git
+    branch = .
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = https://github.com/shedbuilt/libjpeg-turbo.git
+    branch = .
+[submodule "freetype2"]
+	path = freetype2
+	url = https://github.com/shedbuilt/freetype2.git
+    branch = .
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = https://github.com/shedbuilt/harfbuzz.git
+    branch = .
