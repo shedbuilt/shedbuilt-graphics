@@ -14,3 +14,11 @@
 	path = harfbuzz
 	url = https://github.com/shedbuilt/harfbuzz.git
     branch = .
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://github.com/shedbuilt/fontconfig.git
+	branch = .
+[submodule "font_dejavu-ttf"]
+	path = font_dejavu-ttf
+	url = https://github.com/shedbuilt/font_dejavu-ttf.git
+	branch = .
