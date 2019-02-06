@@ -22,3 +22,15 @@
 	path = font_dejavu-ttf
 	url = https://github.com/shedbuilt/font_dejavu-ttf.git
 	branch = .
+[submodule "pixman"]
+	path = pixman
+	url = https://github.com/shedbuilt/pixman.git
+	branch = .
+[submodule "mesa"]
+	path = mesa
+	url = https://github.com/shedbuilt/mesa.git
+	branch = .
+[submodule "cairo"]
+	path = cairo
+	url = https://github.com/shedbuilt/cairo.git
+	branch = .
