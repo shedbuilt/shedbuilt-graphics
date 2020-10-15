@@ -34,3 +34,11 @@
 	path = cairo
 	url = https://github.com/shedbuilt/cairo.git
 	branch = .
+[submodule "gl4es"]
+	path = gl4es
+	url = https://github.com/shedbuilt/gl4es
+	branch = .
+[submodule "glu"]
+	path = glu
+	url = https://github.com/shedbuilt/glu
+	branch = .
